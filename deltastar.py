@@ -11,6 +11,7 @@ def DELTA_STAR(R12, R23, R31):
 
 
 st.title("2305A21L34-PS5")
+st.title("calculate the resistance values of star and delta connection")
 
 
 R12 = st.number_input("Enter R12 (Resistance between 1 and 2)", min_value=0.0, step=0.1)
