@@ -10,7 +10,7 @@ def DELTA_STAR(R12, R23, R31):
     return R1, R2, R3
 
 
-st.title("Delta to Star Resistance Conversion")
+st.title("2305A21L34-PS5")
 
 
 R12 = st.number_input("Enter R12 (Resistance between 1 and 2)", min_value=0.0, step=0.1)
